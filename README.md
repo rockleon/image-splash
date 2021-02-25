@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Image Splash
+
+Simple website to search and download images using Unsplash image searc API.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
